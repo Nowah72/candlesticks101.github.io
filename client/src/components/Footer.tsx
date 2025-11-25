@@ -52,6 +52,13 @@ export default function Footer() {
               >
                 Support
               </button>
+              <a
+                href="/legal"
+                className="block text-sm text-muted-foreground hover:text-foreground transition-colors"
+                data-testid="link-footer-legal"
+              >
+                Terms & Privacy
+              </a>
             </div>
           </div>
 
