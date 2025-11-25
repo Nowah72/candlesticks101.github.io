@@ -1,13 +1,13 @@
 import { Card } from "@/components/ui/card";
 
 const screenshots = [
-  { title: "Interactive Lessons", image: "/attached_assets/lesson_1764086592743.PNG" },
-  { title: "Market Analysis", image: "/attached_assets/market_1764086592743.PNG" },
-  { title: "Pattern Scanner", image: "/attached_assets/sacnner_1764086592744.PNG" },
-  { title: "Trading Simulator", image: "/attached_assets/sim_1764086592744.PNG" },
-  { title: "Drawing Tools", image: "/attached_assets/drawing_1764086858883.PNG" },
-  { title: "Flashcards", image: "/attached_assets/flashcards_1764086858883.PNG" },
-  { title: "Quiz Practice", image: "/attached_assets/quiz_1764086888488.PNG" },
+  { title: "Interactive Lessons", image: "/lesson_1764086592743.PNG" },
+  { title: "Market Analysis", image: "/market_1764086592743.PNG" },
+  { title: "Pattern Scanner", image: "/sacnner_1764086592744.PNG" },
+  { title: "Trading Simulator", image: "/sim_1764086592744.PNG" },
+  { title: "Drawing Tools", image: "/drawing_1764086858883.PNG" },
+  { title: "Flashcards", image: "/flashcards_1764086858883.PNG" },
+  { title: "Quiz Practice", image: "/quiz_1764086888488.PNG" },
 ];
 
 export default function Screenshots() {

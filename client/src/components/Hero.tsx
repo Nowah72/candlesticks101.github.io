@@ -100,7 +100,7 @@ export default function Hero() {
               <div className="absolute inset-0 bg-primary/20 blur-3xl rounded-full" />
               <div className="relative rounded-3xl border-8 border-foreground/10 bg-card overflow-hidden shadow-2xl" style={{ width: "300px", height: "600px" }}>
                 <img 
-                  src="/attached_assets/Capture_1764086592743.PNG" 
+                  src="/Capture_1764086592743.PNG"
                   alt="Candlesticks101 App Screenshot"
                   className="w-full h-full object-cover"
                 />

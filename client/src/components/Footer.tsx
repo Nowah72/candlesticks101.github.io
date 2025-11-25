@@ -17,7 +17,7 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <img 
-                src="/attached_assets/Logo(blue+fed65e)_00000_1764086552151.png" 
+                src="/Logo(blue+fed65e)_00000_1764086552151.png"
                 alt="Candlesticks101 Logo" 
                 className="h-8 w-8 rounded-md"
               />
