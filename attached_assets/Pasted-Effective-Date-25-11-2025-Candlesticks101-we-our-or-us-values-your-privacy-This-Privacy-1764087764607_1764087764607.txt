@@ -1,47 +1,0 @@
-Effective Date: 25.11.2025 Candlesticks101 (“we,” “our,” or “us”) values your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application Candlesticks101 (“App”). By using our App, you agree to the practices described in this policy.
-
-1. Information We Collect
-We may collect the following types of information:
-a. Personal Information (Optional)
-Email address (if you create an account or sign up for premium)
-b. Usage Information
-How you interact with the app (lessons completed, features used, session duration)
-Device information (model, OS version)
-Analytics data for app improvement
-c. Advertising Information
-Anonymous identifiers for ads (e.g., Ad IDs) to show relevant ads
-
-2. How We Use Your Information
-We use the collected information to:
-Provide and improve the App features
-Display relevant ads
-Manage premium subscriptions
-Communicate with you regarding updates or offers
-Monitor and analyze usage for app performance and security
-We do not sell or share your personal information with third parties for unrelated purposes.
-
-3. Ads and Third-Party Services
-Our App may display third-party advertisements and may use analytics services provided by external companies. These third parties may collect anonymous usage data.
-We are not responsible for the privacy practices of these third parties. Please review their privacy policies before interacting with their ads.
-
-4. Premium Subscription
-Purchasing the premium subscription ($9.99) removes ads. Payment is processed through Gumroad.com. We do not store your payment details.
-
-5. Data Retention
-We retain your information only as long as necessary to provide the App and comply with legal obligations. Usage data may be stored longer in anonymized form for analytics purposes.
-
-6. Your Rights
-Depending on your location, you may have rights to:
-Access or correct your personal data
-Delete your account and personal data
-Opt-out of analytics or personalized ads
-To exercise your rights, contact us at: [Insert contact email].
-
-7. Security
-We implement reasonable measures to protect your information. However, no system is completely secure. Use the App at your own risk.
-
-8. Changes to This Policy
-We may update this Privacy Policy occasionally. Changes will be posted with the updated date. Continued use of the App after changes indicates acceptance.
-
-9. Contact Us
-If you have questions about this Privacy Policy, contact us: Email: david.alex.ilie@gmail.com App: Candlesticks101
